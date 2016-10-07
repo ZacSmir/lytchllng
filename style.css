@@ -17,10 +17,11 @@ display: inline-block;
 }
 
 .main-page-list {
+  
   border: 3px solid black;
-  text-align: 
+  align-self: center;
 }
 
 .main-page-item {	
-  
+  display: inline-block
 }
