@@ -1,5 +1,5 @@
 .topbar-item {
-
+ display: inline;
 }
 
 .main-page-wrapper {
@@ -8,6 +8,7 @@
 
 .main-page-list {
   border: 3px solid black;
+  
 }
 
 .main-page-item {	
