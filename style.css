@@ -11,7 +11,7 @@ display: inline-block;
 
 .main-page-wrapper {
   
-  display: inline-block;
+  
   text-align: center;
 
 }
@@ -19,9 +19,9 @@ display: inline-block;
 .main-page-list {
   
   border: 3px solid black;
-  align-self: center;
+  display: inline-block;
 }
 
 .main-page-item {	
-  display: inline-block
+  
 }
